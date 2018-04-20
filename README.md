@@ -1,2 +1,2 @@
 # tilesnake
-Small arena, large lonster, several victims
+Small arena, large monster, several victims.
