@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="tileset.tsx"/>
+ <layer name="ground" width="40" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMBKEb3r/muugECaumqqr68ABKEgyB
+  </data>
+ </layer>
+ <layer name="walls" width="40" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILBBZixYHzi9AbE2jvqPsrsHXUfbnsHc/4YBaNgFIwCQgAAGu4AVQ==
+  </data>
+ </layer>
+ <layer name="collision" width="40" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILBBZiwYHzi9AbE2jvqPsrsHXUfbnsHc/4YBaNgFIwCQgAAa28AOQ==
+  </data>
+ </layer>
+</map>
