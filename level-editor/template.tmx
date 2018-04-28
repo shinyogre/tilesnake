@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="40" height="22" tilewidth="32" tileheight="32" infinite="0" nextobjectid="15">
  <tileset firstgid="1" source="tileset.tsx"/>
- <layer name="ground" width="40" height="20">
+ <layer name="ground" width="40" height="22">
   <data encoding="base64" compression="zlib">
-   eJztwzENAAAMBKEb3r/muugECaumqqr68ABKEgyB
+   eJztwzENAAAMBKEb3r/m2ugACaumqqrq+we2wg3B
   </data>
  </layer>
- <layer name="walls" width="40" height="20">
+ <layer name="walls" width="40" height="22">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjILBBZixYHzi9AbE2jvqPsrsHXUfbnsHc/4YBaNgFIwCQgAAGu4AVQ==
+   eJzllUkOwCAIRU28eI9uuzOG6TMktCVhg/h9ouIcY8zm3tWy+CSNiL7Ed8cvRMczpuWgfBwzwkflZvFJDNy9zqzfw0S5lRM17b1SfIRGKZ8U8/JZ9631sUo+1P7AF1mras6b6veV95FlHr7O/fmYq3Ltf5jlPDUdKo7wnTGJQVoTyc2oHzpmzfX2PwtDRHfXyNCpMu5ed/IFrDgT4w==
   </data>
  </layer>
- <layer name="collision" width="40" height="20" visible="0">
+ <objectgroup name="objects">
+  <object id="5" gid="11" x="736" y="192" width="32" height="32"/>
+  <object id="6" gid="11" x="768" y="64" width="32" height="32"/>
+  <object id="7" gid="11" x="544" y="64" width="32" height="32"/>
+  <object id="8" gid="11" x="256" y="384" width="32" height="32"/>
+  <object id="9" gid="11" x="96" y="384" width="32" height="32"/>
+  <object id="10" gid="11" x="512" y="544" width="32" height="32"/>
+  <object id="11" gid="11" x="480" y="672" width="32" height="32"/>
+  <object id="12" gid="11" x="704" y="672" width="32" height="32"/>
+  <object id="13" gid="11" x="1152" y="384" width="32" height="32"/>
+  <object id="14" gid="11" x="992" y="384" width="32" height="32"/>
+ </objectgroup>
+ <layer name="collision" width="40" height="22" visible="0">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjILBBZiwYHzi9AbE2jvqPsrsHXUfbnsHc/4YBaNgFIwCQgAAa28AOQ==
+   eJzllEsOgDAIRJve/9BuDaH8ZjCok3QhyvCKtHuttYevqWLxWR6Iv8WX8UX5LIYMX2Uv8l3Wl9W/01wz+/f0+fHqac+aR5e8elW+6L69/9DJl9Uf+JBaXTlv6t9XzgdLFb7J97PMjfhH6kR9tHiGT8YsBsT3Hmf0r5rvfYvOF4vP8uicf1SnuZ60LktbAe0=
   </data>
  </layer>
 </map>
