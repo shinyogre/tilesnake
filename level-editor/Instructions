@@ -1,0 +1,5 @@
+1. Import the 'Tiled2Unity.1.0.13.2.unitypackage' into your Unity project.
+2. Make a copy of 'template.tmx' and rename it.
+3. Create the level in your new tmx file, staying on the ground, walls, and objects layers.
+4. Check the collision layer to ensure that all of your collidable tiles are mapped to a collider.
+4. Export to Unity using the Tiled2Unity or Tiled2UnityLite tool.
