@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 20994fe2a765846b081dd3b82b1ae747
+timeCreated: 1525565483
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OrchidBulb: {fileID: 1222394999129760, guid: c9956925373d948ada38db9eaf510eb8,
+      type: 2}
+  - Invisibility: {fileID: 1242923336185944, guid: 28b4837f08a2a4950aab383722f2e478,
+      type: 2}
+  - Lightning: {fileID: 1033679445734228, guid: 3814e2fd3724a4ffebec44fdf7582bb3,
+      type: 2}
+  - Rock: {fileID: 1127633855890048, guid: 04d475ded2c684d53aa09b843baa9d93, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
